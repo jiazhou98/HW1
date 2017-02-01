@@ -1,16 +1,21 @@
 # HW1 #
-Homework for week 1.
+Homework for week 1. This is due Feburary 13th at 11:59pm.
 
-# Testing #
+# Set Up#
 [Please use the shell](http://linuxcommand.org/learning_the_shell.php) then change your directory into where the homework is located then run,
 
 ``` shell
-$ python hw1_tests.py
+$ jupyter notebook
 ```
 [Please run the command without the little $.](http://stackoverflow.com/questions/19986306/what-does-the-mean-when-running-commands) It's just some developer jargon that you'll see from time to time.
 
+This will start the a jupyter notebook session, and you should see a file named `hw1.ipynb` there.
+
+# Testing #
+Please see the homework assignement.
+
 # Grading #
-We will run our own test suite against yours. This means that the tests are NOT comprehensive. There may be some edge cases where your code breaks. To avoid these issues, please read the questions carefully and discuss with your fellow classmates about edge cases. Typically we will NOT answer these questions on Piazza (however students are free to discuss).
+We will run our own test suite against your code. This means that the tests are NOT comprehensive. There may be some edge cases where your code breaks. To avoid these issues, please read the questions carefully and discuss with your fellow classmates about edge cases. Typically we will NOT answer these questions on Piazza (however students are free to discuss them on piazza).
 
 Homework's MUST be submitted by 11:59pm CST(+/-DST appropriately). Even if you're 1 microsecond late (that is you submit your homework 11:59pm+1e-6) we will grade the homework that was last submitted at 11:59pm.
 
