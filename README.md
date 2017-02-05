@@ -1,15 +1,17 @@
 # HW1 #
 Homework for week 1. This is due Feburary 13th at 11:59pm.
 
-# Set Up#
-[Please use the shell](http://linuxcommand.org/learning_the_shell.php) then change your directory into where the homework is located then run,
+# Set Up #
+## Installing Python ##
 
-``` shell
-$ jupyter notebook
-```
-[Please run the command without the little $.](http://stackoverflow.com/questions/19986306/what-does-the-mean-when-running-commands) It's just some developer jargon that you'll see from time to time.
+We are going to be using Jupyter notebook to do homework. If you already know how to set everything up, feel free to do so. Otherwise follow these steps:
+https://www.continuum.io/downloads - Follow the instructions here to download and install Anaconda, a platform agnostic package manager for python.
 
-This will start the a jupyter notebook session, and you should see a file named `hw1.ipynb` there.
+1. Launch the Anaconda prompt, and type jupyter notebook to launch Jupyter notebook on your computer. Alternatively launch the Anaconda navigator and click on Jupyter Notebook.
+2. Download the homework, and find the homework file in Jupyter's file manager.
+3. Open the homework and do it.
+4. When you are done, click file -> save as .py file and send the file to your assigned CA :)
+
 
 # Testing #
 Please see the homework assignement.
