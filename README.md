@@ -35,6 +35,7 @@ Please let someone in course staff (or email me at <ikeda2@illinois.edu>) as soo
 Come to office hours, ask your friend, ask the internet, anything goes. However, if you do end up using an algorithm that you did not explicitly come up with, please cite it. Remember that the homework's are practice for you, the more time you spend on it, the better you'll get.
 
 When asking for help from Course Staff, PLEASE do not show us code and ask us to debug it. Unless you have:
+
 1. Commented EVERY SINGLE line explaining your line of thought (I took a list an iterated through it does not count)
 2. [Grabbed the nearest available rubber duck that you ordered from Amazon Prime and explained your code to it.](https://en.wikipedia.org/wiki/Rubber_duck_debugging)
 3. Have a detailed outline of your thought process.
